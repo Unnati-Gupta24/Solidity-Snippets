@@ -1,0 +1,9 @@
+Check Even Number
+In this problem you are tasked to check if the given number is even or not.
+
+Your smart contract must contain the following public functions / constructor:
+ 
+
+Output:
+isEven(uint256 number) returns(bool) : This function takes a argument of unsigned
+integer and returns true if the number is even, else returns false.
