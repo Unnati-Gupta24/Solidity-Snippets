@@ -1,0 +1,12 @@
+
+Pythagoras Theorem
+
+Given 3 numbers, we want to check wheather it is possible to create a right angled triangle
+such that the lengths of the 3 sides of the triangle are same as the 3 numbers.
+Create a smart contract which has the following public function :
+
+ 
+OUTPUT:-
+function check(uint a, uint b, uint c) returns (uint): This function must return true if
+it is possible for a right angled triangle to have the sides of length equal a, b and c respectively.
+If not, then it must return false.
