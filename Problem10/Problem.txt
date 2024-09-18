@@ -1,0 +1,20 @@
+Diamond tracking (Easy version)
+
+Richard and his team are working on a decentralized diamond trading platform.
+They plan to use blockchain technology to record the ownership of each diamond and ensure that there are no fake diamonds in the market.
+Richard has hired you to write a smart contract for their platform that will help them keep track of the diamonds based on their weight.
+
+Write a smart contract that has the following public functions:
+
+Input:
+importDiamonds(uint[] memory weights): This function takes an array of unsigned integers that 
+represent the weights of the diamonds being imported. It is guaranteed that the weight of each 
+diamond will be in the range 0 <= weight <=1000.
+
+Output:
+availableDiamonds(uint weight): This function takes an unsigned integer that represents the 
+weight of the diamonds being queried. The function should return the number of diamonds that 
+have the specified weight. It is guaranteed that the total number of diamonds never exceed 2^256.
+
+Help Richard and his team in their mission to revolutionize the diamond industry by providing 
+them with a smart contract that will enable them to keep track of the diamonds on their platform.
