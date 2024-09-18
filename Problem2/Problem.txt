@@ -1,0 +1,10 @@
+Calculate Factorial
+
+Factorial is a mathematical operation that represents the product of all positive integers up to a given number. 
+It is denoted by the exclamation mark (!). The factorial of a non-negative integer n is the product of all positive
+integers less than or equal to n.
+
+Prepare a smart contract which returns the factorial of a given number. Your smart contract must contain the following public functions / constructor:
+
+Output:
+calculateFactorial(uint256 n) returns(uint) : This functions takes one argument of type unsigned integer and returns the factorial value.
