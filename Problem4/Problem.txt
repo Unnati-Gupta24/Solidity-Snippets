@@ -1,0 +1,7 @@
+Owner Smart Contract
+In this problem you are tasked to save the details of the contract deployer account and make it as owner of the contract.
+
+Your smart contract must contain the following public functions / constructor:
+ 
+Output:
+getOwner() returns (address) : This function returns the address of deployer account.
