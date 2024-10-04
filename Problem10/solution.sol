@@ -18,3 +18,4 @@ contract DiamondTracker {
         return diamondWeights[weight]; // Return the count of diamonds for the specified weight
     }
 }  
+//it can have multiple solution
