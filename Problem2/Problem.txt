@@ -1,3 +1,4 @@
+Problem
 Calculate Factorial
 
 Factorial is a mathematical operation that represents the product of all positive integers up to a given number. 
