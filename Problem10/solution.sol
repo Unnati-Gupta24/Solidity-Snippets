@@ -17,4 +17,4 @@ contract DiamondTracker {
     function availableDiamonds(uint weight) public view returns (uint) {
         return diamondWeights[weight]; // Return the count of diamonds for the specified weight
     }
-}
+}  
