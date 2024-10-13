@@ -1,6 +1,6 @@
 # Solidity-Snippets-ss
 
-I have created a beginner friendly easy to advanced problem sets.
+I have created a beginner friendly easy to advanced problem sets.<br>
 Solutions are written in Solidity.
 
 Those who want to practice their Solidity skills and improve Smart Contract
