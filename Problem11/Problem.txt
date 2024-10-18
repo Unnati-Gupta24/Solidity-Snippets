@@ -1,0 +1,15 @@
+Problem Statement:
+You’re working on a smart contract deployed on a blockchain using Solidity.<br>
+Your task is to implement a function that returns the index of the nearest<br>
+larger number to a given index `i` within an array of integers.<br>
+The catch? The distance is measured in array indices. Here’s the problem statement in more detail:
+
+Input:
+
+An array of integers stored on the blockchain.<br>
+An index `i` within the array (0-based index).
+
+Output:
+
+The index of the nearest larger number to the number at index `i`. If two or more larger numbers are equidistant, you can return any one of them.
+If there is no larger integer in the array relative to the number at index `i`, your function should return null.
