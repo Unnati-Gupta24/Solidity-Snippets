@@ -1,12 +1,12 @@
 Problem Statement:
-You’re working on a smart contract deployed on a blockchain using Solidity.<br>
-Your task is to implement a function that returns the index of the nearest<br>
-larger number to a given index `i` within an array of integers.<br>
+You’re working on a smart contract deployed on a blockchain using Solidity.
+Your task is to implement a function that returns the index of the nearest
+larger number to a given index `i` within an array of integers.
 The catch? The distance is measured in array indices. Here’s the problem statement in more detail:
 
 Input:
 
-An array of integers stored on the blockchain.<br>
+An array of integers stored on the blockchain.
 An index `i` within the array (0-based index).
 
 Output:
